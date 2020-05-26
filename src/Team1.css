@@ -1,0 +1,10 @@
+.name {
+  font-size: 50px;
+}
+.team1 {
+  width: 200px;
+  border: red solid 2px;
+  text-align: center;
+  border-radius: 5px;
+  font-size: 25px;
+}
